@@ -1,2 +1,2 @@
 # dnl
-Trabajos prácticos de la cátedra Dinámica no lineal (FCAGLP).
+Programas para la cátedra Dinámica no lineal (FCAGLP).
