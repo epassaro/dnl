@@ -1,2 +1,2 @@
 # dnl
-Programas para la cátedra Dinámica no lineal (FCAGLP).
+Programas para la cátedra _Dinámica no lineal_ (FCAGLP).
